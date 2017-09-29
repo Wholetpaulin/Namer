@@ -1,4 +1,4 @@
-# Responsiveness Assignment
+# Namer
 
 ### Overview
 
@@ -19,10 +19,10 @@ This is an open source web application that randomly selects names.  The nams co
 
 ### One More Thing
 
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
+If you have any questions about this project or the material, please feel free to contact me.
 
 **Thanks for stopping by!**
 
 ## Copyright
 
-Coding Boot Camp (C) 2016. All Rights Reserved.
+Paul Trettenero (C) 2017. All Rights Reserved.
